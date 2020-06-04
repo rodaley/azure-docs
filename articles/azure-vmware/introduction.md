@@ -17,7 +17,7 @@ The following diagram shows the adjacency between private clouds and VNets in Az
 
 ## Hosts, clusters, and private clouds
 
-AVS private clouds and clusters are built from a bare-metal, hyper-converged Azure infrastructure host. The high-end hosts have 576-GB RAM and dual Intel 18 core, 2.3-GHz processors. The HE hosts have two vSAN diskgroups with a total 15.36 TB (SSD) raw vSAN capacity tier, and a 3.2 TB (NVMe) vSAN cache tier.
+AVS private clouds and clusters are built from a bare-metal, hyper-converged Azure infrastructure host. The high-end (HE) hosts have 576-GB RAM and dual Intel 18 core, 2.3-GHz processors. The HE hosts have two vSAN diskgroups with a total 15.36 TB (SSD) raw vSAN capacity tier, and a 3.2 TB (NVMe) vSAN cache tier.
 
 New private clouds are deployed through the Azure portal or Azure CLI.
 
